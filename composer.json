@@ -1,0 +1,27 @@
+{
+  "name": "bertugfahriozer/ci4seo",
+  "description": "",
+  "type": "library",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Bertuğ Fahri ÖZER",
+      "email": "bertugfahriozer@gmail.com",
+      "homepage": "https://bertugfahriozer.com",
+      "role": "Developer"
+    }
+  ],
+  "require": {
+    "php": "^7.4||^8.0",
+    "melbahja/seo": "^2.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "ci4seo\\": "app/"
+    }
+  },
+  "support": {
+    "forum": "https://bertugfahriozer.com/",
+    "source": "https://github.com/bertugfahriozer/ci4mongodblibrary"
+  }
+}
